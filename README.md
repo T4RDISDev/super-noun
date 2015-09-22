@@ -1,7 +1,7 @@
 # super-noun
 # Welcome to my repository!
-# Languages:
-# JavaScript
+# Here you can find my sites.
+#
 #
 #
 #
